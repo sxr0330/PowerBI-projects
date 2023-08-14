@@ -1,2 +1,2 @@
-# PowerBI-projects
+# Power BI Projects
 Power BI Visulization
